@@ -1,2 +1,0 @@
-# VanillaCalendar
-Title Hey there
